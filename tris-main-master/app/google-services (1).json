@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "160725047099",
+    "firebase_url": "https://tris-46e5f.firebaseio.com",
+    "project_id": "tris-46e5f",
+    "storage_bucket": "tris-46e5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160725047099:android:08d22c407c7ac872e5c91e",
+        "android_client_info": {
+          "package_name": "com.example.tris"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160725047099-4fvua1j0gtmk5qeanome06g27seedtsg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tris",
+            "certificate_hash": "30a617bd2ff813b161f4a8e7328f4da66c51df0c"
+          }
+        },
+        {
+          "client_id": "160725047099-rf9rfhti8f30vvve0n9ldisi99369lr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKXwYGdGUFPXhCw_t1_wluMsk4GzPVSG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160725047099-rf9rfhti8f30vvve0n9ldisi99369lr6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
