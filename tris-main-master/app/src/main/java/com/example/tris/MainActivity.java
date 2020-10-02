@@ -1,13 +1,15 @@
 package com.example.tris;
-import android.app.Activity;
-import android.support.v4.app.ActivityCompat;
-import android.os.Bundle;
-import android.support.v4.content.ContextCompat;
-import android.content.Intent;
-import android.location.LocationManager;
+
 import android.Manifest;
+import android.app.Activity;
+import android.content.Intent;
 import android.content.pm.PackageManager;
+import android.location.LocationManager;
+import android.os.Bundle;
 import android.widget.Toast;
+
+import androidx.core.app.ActivityCompat;
+import androidx.core.content.ContextCompat;
 
 public class MainActivity extends Activity {
 
