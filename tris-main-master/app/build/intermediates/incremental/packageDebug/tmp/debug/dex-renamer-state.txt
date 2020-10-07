@@ -1,4 +1,4 @@
-#Sat Oct 03 03:43:25 IST 2020
+#Sun Oct 04 20:27:17 IST 2020
 base.0=D\:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex
