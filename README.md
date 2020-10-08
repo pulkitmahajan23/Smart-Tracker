@@ -15,3 +15,4 @@ A smart band to track a persons location which can be used to enforce quarantine
 * [Nishith Nayan](https://github.com/nishithnayan)
 * [Sakshi Sinha](https://github.com/sakshisinha13)
 * [Yili Shivani](https://github.com/lazy2code)
+* [Shashikant Patel](https://github.com/shashikant-patel)
