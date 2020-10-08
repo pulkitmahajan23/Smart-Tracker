@@ -13,6 +13,7 @@
 FirebaseData firebaseData;
 MPU6050 mpu6050(Wire);
 
+bool tamperStatus=false;
 void setup() {
   
   Serial.begin(115200);
@@ -39,18 +40,24 @@ void setup() {
 
 void loop() {
   mpu6050.update();
-  int temp=round(mpu6050.getTemp());
+  float temp=mpu6050.getTemp();
   Serial.print("temp : ");Serial.println(mpu6050.getTemp());
-  
-  if(Firebase.setInt(firebaseData, "/Temp", temp))
+  if(Firebase.set(firebaseData, "/Temp", temp))
   {
     //Success
      Serial.println("Set int data success");
 
-  }else{
-    //Failed?, get the error reason from firebaseData
-
-    Serial.print("Error in setInt, ");
+  }
+  else{
+    Serial.print("Error in setting");
     Serial.println(firebaseData.errorReason());
   }
-}
+  if(Firebase.setBool(firebaseData,"/TamperStatus",tamperStatus))
+  {
+     Serial.println("Set int data success");
+  }
+  else{
+    Serial.print("Error in setting");
+    Serial.println(firebaseData.errorReason());
+  }
+} 
