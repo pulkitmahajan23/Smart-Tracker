@@ -15,7 +15,6 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.core.app.ActivityCompat;
 
-import com.example.tris.models.temperatureFire;
 import com.google.android.gms.location.FusedLocationProviderClient;
 import com.google.android.gms.location.LocationServices;
 import com.google.android.gms.tasks.OnCompleteListener;
@@ -43,6 +42,7 @@ public class MainActivity extends Activity {
     private TextView mLatitudeText;
     private TextView mLongitudeText;
     private TextView mTemperatureText;
+    private TextView mTamperStatusText;
 
     FirebaseDatabase database = FirebaseDatabase.getInstance();
 
@@ -57,18 +57,17 @@ public class MainActivity extends Activity {
         mLatitudeText = (TextView) findViewById((R.id.latitude_text));
         mLongitudeText = (TextView) findViewById((R.id.longitude_text));
         mTemperatureText = (TextView) findViewById((R.id.temperature_data));
+        mTamperStatusText = (TextView) findViewById(R.id.tamper_status_data);
+
         mFusedLocationClient = LocationServices.getFusedLocationProviderClient(this);
 
         final DatabaseReference fTemperature = database.getReference().child("Temp");
 
-       /* fTemperature.addValueEventListener(new ValueEventListener() {
+       fTemperature.addValueEventListener(new ValueEventListener() {
             @Override
             public void onDataChange(@NonNull DataSnapshot snapshot) {
-              //  temperatureFire temperatureOb=snapshot.getValue(temperatureFire.class);
-               //Data temperature = snapshot.getValue(Data.class);
-               // String temp=temperature.getData();
-                //Log.d("Temperature:", temp);
-              //  mTemperatureText.setText(temp.toString());
+                String temperatureOb= snapshot.getValue(java.lang.String.class);
+                mTemperatureText.setText("Temperature: "+temperatureOb);
             }
 
             @Override
@@ -76,17 +75,32 @@ public class MainActivity extends Activity {
 
             }
         });
-*/
-        fTemperature.addListenerForSingleValueEvent(new ValueEventListener() {
+
+    /*    fTemperature.addListenerForSingleValueEvent(new ValueEventListener() {
             @Override
             public void onDataChange(@NonNull DataSnapshot snapshot) {
-                temperatureFire temperatureOb=snapshot.getValue(temperatureFire.class);
-                snapshot.
+                String temperatureOb= snapshot.getValue(java.lang.String.class);
+                mTemperatureText.setText("Temperature: "+temperatureOb);
             }
 
             @Override
             public void onCancelled(@NonNull DatabaseError error) {
                 Log.e(TAG, "onCancelled", error.toException());
+            }
+        });*/
+
+        DatabaseReference fTamperStatus = database.getReference().child("TamperStatus");
+
+        fTamperStatus.addValueEventListener(new ValueEventListener() {
+            @Override
+            public void onDataChange(@NonNull DataSnapshot snapshot) {
+                String tamperOb= snapshot.getValue(java.lang.String.class);
+                mTamperStatusText.setText("Tamper Status: "+tamperOb);
+            }
+
+            @Override
+            public void onCancelled(@NonNull DatabaseError error) {
+
             }
         });
     }
