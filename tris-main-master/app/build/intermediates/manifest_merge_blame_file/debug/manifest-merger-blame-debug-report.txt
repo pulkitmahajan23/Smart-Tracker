@@ -16,169 +16,145 @@
 12    <uses-permission android:name="android.permission.INTERNET" />
 12-->D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:6:5-67
 12-->D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:6:22-64
-13
-14    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
-15    <!-- <uses-sdk android:minSdkVersion="14"/> -->
-16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-16-->[com.google.firebase:firebase-database:19.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\4c50ef13da4966c75ce899a6e1c4b708\jetified-firebase-database-19.3.0\AndroidManifest.xml:25:5-79
-16-->[com.google.firebase:firebase-database:19.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\4c50ef13da4966c75ce899a6e1c4b708\jetified-firebase-database-19.3.0\AndroidManifest.xml:25:22-76
-17    <uses-permission android:name="android.permission.WAKE_LOCK" />
-17-->[com.google.android.gms:play-services-measurement-api:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\bf9b52d91e7d332fbb58a27807390518\jetified-play-services-measurement-api-17.5.0\AndroidManifest.xml:24:5-68
-17-->[com.google.android.gms:play-services-measurement-api:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\bf9b52d91e7d332fbb58a27807390518\jetified-play-services-measurement-api-17.5.0\AndroidManifest.xml:24:22-65
-18    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
-18-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\c98c54285afb216bd891123cbaa87c3b\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:26:5-110
-18-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\c98c54285afb216bd891123cbaa87c3b\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:26:22-107
-19
-20    <application
-20-->D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:8:5-30:19
-21        android:allowBackup="true"
-21-->D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:9:9-35
-22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-22-->[androidx.core:core:1.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\33718701d713ca3e83325f7dda0e045d\core-1.3.1\AndroidManifest.xml:24:18-86
-23        android:debuggable="true"
-24        android:icon="@mipmap/ic_launcher"
-24-->D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:10:9-43
-25        android:label="@string/app_name"
-25-->D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:11:9-41
-26        android:roundIcon="@mipmap/ic_launcher_round"
-26-->D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:12:9-54
-27        android:supportsRtl="true"
-27-->D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:13:9-35
-28        android:testOnly="true"
-29        android:theme="@style/AppTheme" >
-29-->D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:14:9-40
-30        <service
-30-->D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:15:9-18:47
-31            android:name="com.example.tris.TrackingService"
-31-->D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:16:13-44
-32            android:enabled="true"
-32-->D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:17:13-35
-33            android:exported="true" />
-33-->D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:18:13-36
+13    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+13-->D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:7:5-80
+13-->D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:7:22-78
+14
+15    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+16    <!-- <uses-sdk android:minSdkVersion="14"/> -->
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->[com.google.firebase:firebase-database:19.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\15509b0ee2b49b430de04ac666b23e82\jetified-firebase-database-19.5.0\AndroidManifest.xml:25:5-79
+17-->[com.google.firebase:firebase-database:19.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\15509b0ee2b49b430de04ac666b23e82\jetified-firebase-database-19.5.0\AndroidManifest.xml:25:22-76
+18    <uses-permission android:name="android.permission.WAKE_LOCK" />
+18-->[com.google.android.gms:play-services-measurement-api:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\79a3355c47dcd2cd02bd94e09701a0f8\jetified-play-services-measurement-api-17.6.0\AndroidManifest.xml:24:5-68
+18-->[com.google.android.gms:play-services-measurement-api:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\79a3355c47dcd2cd02bd94e09701a0f8\jetified-play-services-measurement-api-17.6.0\AndroidManifest.xml:24:22-65
+19    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+19-->[com.google.android.gms:play-services-measurement:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\fc64ca1587327038fd3b6ec25ef15cdb\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:26:5-110
+19-->[com.google.android.gms:play-services-measurement:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\fc64ca1587327038fd3b6ec25ef15cdb\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:26:22-107
+20
+21    <application
+21-->D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:9:5-29:19
+22        android:allowBackup="true"
+22-->D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:10:9-35
+23        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+23-->[androidx.core:core:1.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\33718701d713ca3e83325f7dda0e045d\core-1.3.1\AndroidManifest.xml:24:18-86
+24        android:debuggable="true"
+25        android:icon="@mipmap/ic_launcher"
+25-->D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:11:9-43
+26        android:label="@string/app_name"
+26-->D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:12:9-41
+27        android:roundIcon="@mipmap/ic_launcher_round"
+27-->D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:13:9-54
+28        android:supportsRtl="true"
+28-->D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:14:9-35
+29        android:testOnly="true"
+30        android:theme="@style/AppTheme" >
+30-->D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:15:9-40
+31        <meta-data
+31-->D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:17:9-18:69
+32            android:name="com.google.android.gms.version"
+32-->D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:17:20-65
+33            android:value="@integer/google_play_services_version" />
+33-->D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:18:13-66
 34
 35        <activity
-35-->D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:20:9-29:20
+35-->D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:19:9-28:20
 36            android:name="com.example.tris.MainActivity"
-36-->D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:21:13-41
+36-->D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:20:13-41
 37            android:label="@string/app_name"
-37-->D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:22:13-45
+37-->D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:21:13-45
 38            android:theme="@style/AppTheme.NoActionBar" >
-38-->D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:23:13-56
+38-->D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:22:13-56
 39            <intent-filter>
-39-->D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:24:13-28:29
+39-->D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:23:13-27:29
 40                <action android:name="android.intent.action.MAIN" />
-40-->D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:25:17-69
-40-->D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:25:25-66
+40-->D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:24:17-69
+40-->D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:24:25-66
 41
 42                <category android:name="android.intent.category.LAUNCHER" />
-42-->D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:27:17-77
-42-->D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:27:27-74
+42-->D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:26:17-77
+42-->D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:26:27-74
 43            </intent-filter>
 44        </activity>
-45        <activity
-45-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\885d6b704bd1a34065a91963c0beccac\jetified-firebase-auth-19.3.1\AndroidManifest.xml:24:9-31:50
-46            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
-46-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\885d6b704bd1a34065a91963c0beccac\jetified-firebase-auth-19.3.1\AndroidManifest.xml:25:13-85
-47            android:excludeFromRecents="true"
-47-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\885d6b704bd1a34065a91963c0beccac\jetified-firebase-auth-19.3.1\AndroidManifest.xml:26:13-46
-48            android:exported="true"
-48-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\885d6b704bd1a34065a91963c0beccac\jetified-firebase-auth-19.3.1\AndroidManifest.xml:27:13-36
-49            android:launchMode="singleTask"
-49-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\885d6b704bd1a34065a91963c0beccac\jetified-firebase-auth-19.3.1\AndroidManifest.xml:28:13-44
-50            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
-50-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\885d6b704bd1a34065a91963c0beccac\jetified-firebase-auth-19.3.1\AndroidManifest.xml:29:13-102
-51            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-51-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\885d6b704bd1a34065a91963c0beccac\jetified-firebase-auth-19.3.1\AndroidManifest.xml:30:13-72
-52
-53        <service
-53-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\885d6b704bd1a34065a91963c0beccac\jetified-firebase-auth-19.3.1\AndroidManifest.xml:33:9-39:19
-54            android:name="com.google.firebase.components.ComponentDiscoveryService"
-54-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\885d6b704bd1a34065a91963c0beccac\jetified-firebase-auth-19.3.1\AndroidManifest.xml:34:13-84
-55            android:directBootAware="true"
-55-->[com.google.firebase:firebase-common:19.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\f1699853aa7320f36e92465950d9b870\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
-56            android:exported="false" >
-56-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\885d6b704bd1a34065a91963c0beccac\jetified-firebase-auth-19.3.1\AndroidManifest.xml:35:13-37
-57            <meta-data
-57-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\885d6b704bd1a34065a91963c0beccac\jetified-firebase-auth-19.3.1\AndroidManifest.xml:36:13-38:85
-58                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
-58-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\885d6b704bd1a34065a91963c0beccac\jetified-firebase-auth-19.3.1\AndroidManifest.xml:37:17-109
-59                android:value="com.google.firebase.components.ComponentRegistrar" />
-59-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\885d6b704bd1a34065a91963c0beccac\jetified-firebase-auth-19.3.1\AndroidManifest.xml:38:17-82
-60            <meta-data
-60-->[com.google.firebase:firebase-database:19.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\4c50ef13da4966c75ce899a6e1c4b708\jetified-firebase-database-19.3.0\AndroidManifest.xml:32:13-34:85
-61                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
-61-->[com.google.firebase:firebase-database:19.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\4c50ef13da4966c75ce899a6e1c4b708\jetified-firebase-database-19.3.0\AndroidManifest.xml:33:17-109
-62                android:value="com.google.firebase.components.ComponentRegistrar" />
-62-->[com.google.firebase:firebase-database:19.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\4c50ef13da4966c75ce899a6e1c4b708\jetified-firebase-database-19.3.0\AndroidManifest.xml:34:17-82
-63            <meta-data
-63-->[com.google.android.gms:play-services-measurement-api:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\bf9b52d91e7d332fbb58a27807390518\jetified-play-services-measurement-api-17.5.0\AndroidManifest.xml:30:13-32:85
-64                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
-64-->[com.google.android.gms:play-services-measurement-api:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\bf9b52d91e7d332fbb58a27807390518\jetified-play-services-measurement-api-17.5.0\AndroidManifest.xml:31:17-139
-65                android:value="com.google.firebase.components.ComponentRegistrar" />
-65-->[com.google.android.gms:play-services-measurement-api:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\bf9b52d91e7d332fbb58a27807390518\jetified-play-services-measurement-api-17.5.0\AndroidManifest.xml:32:17-82
-66            <meta-data
-66-->[com.google.firebase:firebase-installations:16.3.2] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\184dfe846ffee265dfd9d84f51c2bbad\jetified-firebase-installations-16.3.2\AndroidManifest.xml:17:13-19:85
-67                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
-67-->[com.google.firebase:firebase-installations:16.3.2] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\184dfe846ffee265dfd9d84f51c2bbad\jetified-firebase-installations-16.3.2\AndroidManifest.xml:18:17-127
-68                android:value="com.google.firebase.components.ComponentRegistrar" />
-68-->[com.google.firebase:firebase-installations:16.3.2] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\184dfe846ffee265dfd9d84f51c2bbad\jetified-firebase-installations-16.3.2\AndroidManifest.xml:19:17-82
-69        </service>
-70
-71        <activity
-71-->[com.google.android.gms:play-services-base:17.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\ba541f09ecba7e7a687839a1ca94cf76\jetified-play-services-base-17.3.0\AndroidManifest.xml:23:9-26:75
-72            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-72-->[com.google.android.gms:play-services-base:17.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\ba541f09ecba7e7a687839a1ca94cf76\jetified-play-services-base-17.3.0\AndroidManifest.xml:24:13-79
-73            android:exported="false"
-73-->[com.google.android.gms:play-services-base:17.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\ba541f09ecba7e7a687839a1ca94cf76\jetified-play-services-base-17.3.0\AndroidManifest.xml:25:13-37
-74            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-74-->[com.google.android.gms:play-services-base:17.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\ba541f09ecba7e7a687839a1ca94cf76\jetified-play-services-base-17.3.0\AndroidManifest.xml:26:13-72
-75
-76        <provider
-76-->[com.google.firebase:firebase-common:19.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\f1699853aa7320f36e92465950d9b870\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
-77            android:name="com.google.firebase.provider.FirebaseInitProvider"
-77-->[com.google.firebase:firebase-common:19.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\f1699853aa7320f36e92465950d9b870\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
-78            android:authorities="com.example.tris.firebaseinitprovider"
-78-->[com.google.firebase:firebase-common:19.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\f1699853aa7320f36e92465950d9b870\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
-79            android:exported="false"
-79-->[com.google.firebase:firebase-common:19.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\f1699853aa7320f36e92465950d9b870\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
-80            android:initOrder="100" />
-80-->[com.google.firebase:firebase-common:19.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\f1699853aa7320f36e92465950d9b870\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
-81
-82        <receiver
-82-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\c98c54285afb216bd891123cbaa87c3b\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:29:9-33:20
-83            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
-83-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\c98c54285afb216bd891123cbaa87c3b\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:30:13-85
-84            android:enabled="true"
-84-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\c98c54285afb216bd891123cbaa87c3b\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:31:13-35
-85            android:exported="false" >
-85-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\c98c54285afb216bd891123cbaa87c3b\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:32:13-37
-86        </receiver>
-87
-88        <service
-88-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\c98c54285afb216bd891123cbaa87c3b\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:35:9-38:40
-89            android:name="com.google.android.gms.measurement.AppMeasurementService"
-89-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\c98c54285afb216bd891123cbaa87c3b\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:36:13-84
-90            android:enabled="true"
-90-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\c98c54285afb216bd891123cbaa87c3b\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:37:13-35
-91            android:exported="false" />
-91-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\c98c54285afb216bd891123cbaa87c3b\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:38:13-37
-92        <service
-92-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\c98c54285afb216bd891123cbaa87c3b\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:39:9-43:72
-93            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
-93-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\c98c54285afb216bd891123cbaa87c3b\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:40:13-87
-94            android:enabled="true"
-94-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\c98c54285afb216bd891123cbaa87c3b\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:41:13-35
-95            android:exported="false"
-95-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\c98c54285afb216bd891123cbaa87c3b\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:42:13-37
-96            android:permission="android.permission.BIND_JOB_SERVICE" />
-96-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\c98c54285afb216bd891123cbaa87c3b\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:43:13-69
-97
-98        <meta-data
-98-->[com.google.android.gms:play-services-basement:17.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\f8e1c9231e4c2edbae11e61f1b801af1\jetified-play-services-basement-17.3.0\AndroidManifest.xml:23:9-25:69
-99            android:name="com.google.android.gms.version"
-99-->[com.google.android.gms:play-services-basement:17.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\f8e1c9231e4c2edbae11e61f1b801af1\jetified-play-services-basement-17.3.0\AndroidManifest.xml:24:13-58
-100            android:value="@integer/google_play_services_version" />
-100-->[com.google.android.gms:play-services-basement:17.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\f8e1c9231e4c2edbae11e61f1b801af1\jetified-play-services-basement-17.3.0\AndroidManifest.xml:25:13-66
-101    </application>
-102
-103</manifest>
+45
+46        <service
+46-->[com.google.firebase:firebase-database:19.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\15509b0ee2b49b430de04ac666b23e82\jetified-firebase-database-19.5.0\AndroidManifest.xml:29:9-35:19
+47            android:name="com.google.firebase.components.ComponentDiscoveryService"
+47-->[com.google.firebase:firebase-database:19.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\15509b0ee2b49b430de04ac666b23e82\jetified-firebase-database-19.5.0\AndroidManifest.xml:30:13-84
+48            android:directBootAware="true"
+48-->[com.google.firebase:firebase-common:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\b0490454e848f18b90eb9fd352d0729e\jetified-firebase-common-19.3.1\AndroidManifest.xml:35:13-43
+49            android:exported="false" >
+49-->[com.google.firebase:firebase-database:19.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\15509b0ee2b49b430de04ac666b23e82\jetified-firebase-database-19.5.0\AndroidManifest.xml:31:13-37
+50            <meta-data
+50-->[com.google.firebase:firebase-database:19.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\15509b0ee2b49b430de04ac666b23e82\jetified-firebase-database-19.5.0\AndroidManifest.xml:32:13-34:85
+51                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+51-->[com.google.firebase:firebase-database:19.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\15509b0ee2b49b430de04ac666b23e82\jetified-firebase-database-19.5.0\AndroidManifest.xml:33:17-109
+52                android:value="com.google.firebase.components.ComponentRegistrar" />
+52-->[com.google.firebase:firebase-database:19.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\15509b0ee2b49b430de04ac666b23e82\jetified-firebase-database-19.5.0\AndroidManifest.xml:34:17-82
+53            <meta-data
+53-->[com.google.android.gms:play-services-measurement-api:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\79a3355c47dcd2cd02bd94e09701a0f8\jetified-play-services-measurement-api-17.6.0\AndroidManifest.xml:30:13-32:85
+54                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+54-->[com.google.android.gms:play-services-measurement-api:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\79a3355c47dcd2cd02bd94e09701a0f8\jetified-play-services-measurement-api-17.6.0\AndroidManifest.xml:31:17-139
+55                android:value="com.google.firebase.components.ComponentRegistrar" />
+55-->[com.google.android.gms:play-services-measurement-api:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\79a3355c47dcd2cd02bd94e09701a0f8\jetified-play-services-measurement-api-17.6.0\AndroidManifest.xml:32:17-82
+56            <meta-data
+56-->[com.google.firebase:firebase-installations:16.3.2] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\184dfe846ffee265dfd9d84f51c2bbad\jetified-firebase-installations-16.3.2\AndroidManifest.xml:17:13-19:85
+57                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+57-->[com.google.firebase:firebase-installations:16.3.2] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\184dfe846ffee265dfd9d84f51c2bbad\jetified-firebase-installations-16.3.2\AndroidManifest.xml:18:17-127
+58                android:value="com.google.firebase.components.ComponentRegistrar" />
+58-->[com.google.firebase:firebase-installations:16.3.2] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\184dfe846ffee265dfd9d84f51c2bbad\jetified-firebase-installations-16.3.2\AndroidManifest.xml:19:17-82
+59        </service>
+60
+61        <activity
+61-->[com.google.android.gms:play-services-base:17.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\ba541f09ecba7e7a687839a1ca94cf76\jetified-play-services-base-17.3.0\AndroidManifest.xml:23:9-26:75
+62            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+62-->[com.google.android.gms:play-services-base:17.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\ba541f09ecba7e7a687839a1ca94cf76\jetified-play-services-base-17.3.0\AndroidManifest.xml:24:13-79
+63            android:exported="false"
+63-->[com.google.android.gms:play-services-base:17.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\ba541f09ecba7e7a687839a1ca94cf76\jetified-play-services-base-17.3.0\AndroidManifest.xml:25:13-37
+64            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+64-->[com.google.android.gms:play-services-base:17.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\ba541f09ecba7e7a687839a1ca94cf76\jetified-play-services-base-17.3.0\AndroidManifest.xml:26:13-72
+65
+66        <provider
+66-->[com.google.firebase:firebase-common:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\b0490454e848f18b90eb9fd352d0729e\jetified-firebase-common-19.3.1\AndroidManifest.xml:26:9-31:39
+67            android:name="com.google.firebase.provider.FirebaseInitProvider"
+67-->[com.google.firebase:firebase-common:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\b0490454e848f18b90eb9fd352d0729e\jetified-firebase-common-19.3.1\AndroidManifest.xml:27:13-77
+68            android:authorities="com.example.tris.firebaseinitprovider"
+68-->[com.google.firebase:firebase-common:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\b0490454e848f18b90eb9fd352d0729e\jetified-firebase-common-19.3.1\AndroidManifest.xml:28:13-72
+69            android:directBootAware="true"
+69-->[com.google.firebase:firebase-common:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\b0490454e848f18b90eb9fd352d0729e\jetified-firebase-common-19.3.1\AndroidManifest.xml:29:13-43
+70            android:exported="false"
+70-->[com.google.firebase:firebase-common:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\b0490454e848f18b90eb9fd352d0729e\jetified-firebase-common-19.3.1\AndroidManifest.xml:30:13-37
+71            android:initOrder="100" />
+71-->[com.google.firebase:firebase-common:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\b0490454e848f18b90eb9fd352d0729e\jetified-firebase-common-19.3.1\AndroidManifest.xml:31:13-36
+72
+73        <receiver
+73-->[com.google.android.gms:play-services-measurement:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\fc64ca1587327038fd3b6ec25ef15cdb\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:29:9-33:20
+74            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+74-->[com.google.android.gms:play-services-measurement:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\fc64ca1587327038fd3b6ec25ef15cdb\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:30:13-85
+75            android:enabled="true"
+75-->[com.google.android.gms:play-services-measurement:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\fc64ca1587327038fd3b6ec25ef15cdb\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:31:13-35
+76            android:exported="false" >
+76-->[com.google.android.gms:play-services-measurement:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\fc64ca1587327038fd3b6ec25ef15cdb\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:32:13-37
+77        </receiver>
+78
+79        <service
+79-->[com.google.android.gms:play-services-measurement:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\fc64ca1587327038fd3b6ec25ef15cdb\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:35:9-38:40
+80            android:name="com.google.android.gms.measurement.AppMeasurementService"
+80-->[com.google.android.gms:play-services-measurement:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\fc64ca1587327038fd3b6ec25ef15cdb\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:36:13-84
+81            android:enabled="true"
+81-->[com.google.android.gms:play-services-measurement:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\fc64ca1587327038fd3b6ec25ef15cdb\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:37:13-35
+82            android:exported="false" />
+82-->[com.google.android.gms:play-services-measurement:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\fc64ca1587327038fd3b6ec25ef15cdb\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:38:13-37
+83        <service
+83-->[com.google.android.gms:play-services-measurement:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\fc64ca1587327038fd3b6ec25ef15cdb\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:39:9-43:72
+84            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+84-->[com.google.android.gms:play-services-measurement:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\fc64ca1587327038fd3b6ec25ef15cdb\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:40:13-87
+85            android:enabled="true"
+85-->[com.google.android.gms:play-services-measurement:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\fc64ca1587327038fd3b6ec25ef15cdb\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:41:13-35
+86            android:exported="false"
+86-->[com.google.android.gms:play-services-measurement:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\fc64ca1587327038fd3b6ec25ef15cdb\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:42:13-37
+87            android:permission="android.permission.BIND_JOB_SERVICE" />
+87-->[com.google.android.gms:play-services-measurement:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\fc64ca1587327038fd3b6ec25ef15cdb\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:43:13-69
+88    </application>
+89
+90</manifest>

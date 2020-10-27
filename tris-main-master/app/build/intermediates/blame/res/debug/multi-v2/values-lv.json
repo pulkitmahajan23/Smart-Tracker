@@ -4,23 +4,6 @@
             "outputFile": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-lv\\values-lv.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\pulki\\.gradle\\caches\\transforms-2\\files-2.1\\2069ecdbb2879ea2eb7c34a2fc468e00\\navigation-ui-2.3.0\\res\\values-lv\\values-lv.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,169",
-                        "endColumns": "113,122",
-                        "endOffsets": "164,287"
-                    },
-                    "to": {
-                        "startLines": "47,48",
-                        "startColumns": "4,4",
-                        "startOffsets": "5782,5896",
-                        "endColumns": "113,122",
-                        "endOffsets": "5891,6014"
-                    }
-                },
-                {
                     "source": "C:\\Users\\pulki\\.gradle\\caches\\transforms-2\\files-2.1\\ba541f09ecba7e7a687839a1ca94cf76\\jetified-play-services-base-17.3.0\\res\\values-lv\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
@@ -69,6 +52,23 @@
                         "startOffsets": "4152",
                         "endColumns": "224",
                         "endOffsets": "4372"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\pulki\\.gradle\\caches\\transforms-2\\files-2.1\\a212ca7986dd989576ba738d0a4c4e30\\navigation-ui-2.3.1\\res\\values-lv\\values-lv.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,169",
+                        "endColumns": "113,122",
+                        "endOffsets": "164,287"
+                    },
+                    "to": {
+                        "startLines": "47,48",
+                        "startColumns": "4,4",
+                        "startOffsets": "5782,5896",
+                        "endColumns": "113,122",
+                        "endOffsets": "5891,6014"
                     }
                 },
                 {

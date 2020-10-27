@@ -1,17 +1,16 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:2:1-32:12
-MERGED from [androidx.navigation:navigation-ui:2.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\2069ecdbb2879ea2eb7c34a2fc468e00\navigation-ui-2.3.0\AndroidManifest.xml:17:1-24:12
+ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:2:1-31:12
+MERGED from [androidx.navigation:navigation-ui:2.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\a212ca7986dd989576ba738d0a4c4e30\navigation-ui-2.3.1\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.material:material:1.2.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\39b0a42cf105417fa1a4a4ae0c46d8b8\material-1.2.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\8fe1a9545bb62a16dcfa0a727b4a497f\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\1fb9e56b605b6945062db28818eec327\constraintlayout-2.0.2\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\85617a0bd0c144064dce7eaf3664b2d0\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.navigation:navigation-fragment:2.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\8e2d5802c593eda1fb50ed4db93361c4\navigation-fragment-2.3.0\AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\885d6b704bd1a34065a91963c0beccac\jetified-firebase-auth-19.3.1\AndroidManifest.xml:17:1-42:12
-MERGED from [com.google.firebase:firebase-database:19.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\4c50ef13da4966c75ce899a6e1c4b708\jetified-firebase-database-19.3.0\AndroidManifest.xml:15:1-38:12
-MERGED from [com.google.firebase:firebase-analytics:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\7e0f3b77cbbdc4726ab6ced8cacf0e6b\jetified-firebase-analytics-17.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\70579ef47a6140c230101da49381d940\navigation-fragment-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\3a9604fe19215ded65fa72c98dd4be30\jetified-firebase-analytics-17.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database:19.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\15509b0ee2b49b430de04ac666b23e82\jetified-firebase-database-19.5.0\AndroidManifest.xml:15:1-38:12
 MERGED from [com.google.android.gms:play-services-location:17.1.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\db1f1d15bb5133a9471261fcb5aacc45\jetified-play-services-location-17.1.0\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\df244ec1d2c44ae00cd79b12f5a621a8\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\1f2f6e35597700a1fa707c525aa71aef\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
@@ -20,37 +19,36 @@ MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\pulki\
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\6197a1e4fd17706b41f50968ca5cdc46\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\dfa225602080814c2106175b3407a619\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\b1254f835d2e50004f14731e3271899d\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\1d3a58b451da1475223005d9c0ecb835\jetified-firebase-auth-interop-19.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\f29128e38781b61bb5dabf004eeb17ba\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.firebase:firebase-database-collection:17.0.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\3dc365cf5e1b4c40b3a1715e44201c45\jetified-firebase-database-collection-17.0.1\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-base:17.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\ba541f09ecba7e7a687839a1ca94cf76\jetified-play-services-base-17.3.0\AndroidManifest.xml:17:1-29:12
-MERGED from [com.google.android.gms:play-services-measurement-api:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\bf9b52d91e7d332fbb58a27807390518\jetified-play-services-measurement-api-17.5.0\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\049e3436ec3526c06cbb5fe8e4b798d8\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\79a3355c47dcd2cd02bd94e09701a0f8\jetified-play-services-measurement-api-17.6.0\AndroidManifest.xml:17:1-36:12
 MERGED from [com.google.firebase:firebase-installations:16.3.2] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\184dfe846ffee265dfd9d84f51c2bbad\jetified-firebase-installations-16.3.2\AndroidManifest.xml:2:1-23:12
-MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\f1699853aa7320f36e92465950d9b870\jetified-firebase-common-19.3.0\AndroidManifest.xml:15:1-39:12
-MERGED from [com.google.android.gms:play-services-measurement:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\c98c54285afb216bd891123cbaa87c3b\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:17:1-46:12
-MERGED from [com.google.android.gms:play-services-measurement-sdk:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\6cfd882993a35762c4287493a639234b\jetified-play-services-measurement-sdk-17.5.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-common:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\b0490454e848f18b90eb9fd352d0729e\jetified-firebase-common-19.3.1\AndroidManifest.xml:15:1-40:12
 MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\cc3a29ec87dd6cfd13c1f8e9129d96bf\jetified-firebase-installations-interop-16.0.0\AndroidManifest.xml:15:1-23:12
 MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\0dab8f2901f7f17503180e03d67fa452\jetified-play-services-tasks-17.1.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\049e3436ec3526c06cbb5fe8e4b798d8\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\ca375f57d742b2392f4b29c1f4520b5a\jetified-play-services-measurement-impl-17.5.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\fc64ca1587327038fd3b6ec25ef15cdb\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\3cfd1bdf7bb6a7c20ae6b3493defefd7\jetified-play-services-measurement-sdk-17.6.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\ff4e026c3f03bd17b744071217c19692\jetified-play-services-measurement-impl-17.6.0\AndroidManifest.xml:17:1-31:12
 MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\f89d7ad570105577ea0d21e1e9d617fe\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\3b8e0d1cfd3f251b4c62a8df100c1027\jetified-play-services-measurement-sdk-api-17.5.0\AndroidManifest.xml:17:1-27:12
-MERGED from [com.google.android.gms:play-services-measurement-base:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\0c4929a1b73c07110139c7e7c268f4a7\jetified-play-services-measurement-base-17.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\75bdd9badeb1d9bdc1cdec10fb85125a\jetified-play-services-measurement-sdk-api-17.6.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\0330f69d052bd198594a02465fbff1d0\jetified-play-services-measurement-base-17.6.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\8ee6449a56375b7f471ac2c9f8a9363e\jetified-play-services-stats-17.0.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\9fe7b05b31af97e9fdbe53ce3e7b2635\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:17:1-25:12
 MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\f8e1c9231e4c2edbae11e61f1b801af1\jetified-play-services-basement-17.3.0\AndroidManifest.xml:17:1-28:12
 MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\6ad125d7c232d1c27a50120c35aa4bd5\fragment-1.2.4\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\eb91bfcb2f18ee8866b1fbf94be9e8a7\drawerlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\762d1142c9efdf7688a53cb3bb1d7e34\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.transition:transition:1.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\07989e0ad6eca159cba348439230f3ff\transition-1.3.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\01272a8d33c6943dd1d04bc0fe9a5705\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\c589a8b64c92fc3d250c179a2678c2b5\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.customview:customview:1.1.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\a0e435fc7b40155982f8a0680e927f6a\customview-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\7e2b349d88219878768d96e6fde0502a\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\09dcbb207ea52056cbf59bbf8caf7ddf\loader-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.navigation:navigation-runtime:2.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\e37a8ae7ca259e60880628859a95d424\navigation-runtime-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\c055e8400f50bf29eb1f60fe2f22626e\navigation-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.activity:activity:1.1.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\c20f01078be76f82f16e544393ead06e\jetified-activity-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.navigation:navigation-common:2.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\3dfdf91e6cf72158062bf72c962cbd88\navigation-common-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\8105a38212ce1787f52f4a103b5074cd\navigation-common-2.3.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core:1.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\33718701d713ca3e83325f7dda0e045d\core-1.3.1\AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\6f34602dfbf6f8fb5b6931b9e45859b5\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\aeae1fb018a8fef22dcfe65a751b499a\jetified-firebase-components-16.0.0\AndroidManifest.xml:15:1-23:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\e3a897727134335945e5b7466b359ad3\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\a108ffa784e0e9c980bf3158516b1b2a\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
@@ -62,22 +60,23 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\pulki\.gradle
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\3c4ebff23d5e00aa72834dc22adc11d7\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\d4465896c4662edfdecbd8826f5767b4\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\d582b231c866c9ed589e03b50b568fea\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\6f34602dfbf6f8fb5b6931b9e45859b5\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\410f8a5d572e99627a02105a188dcc85\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\d16c055fb911a7e235b9e6af8aa6e581\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
-INJECTED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:2:1-31:12
 	package
 		ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:3:5-31
 		INJECTED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml
 		INJECTED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml
-		ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:2:1-32:12
+		ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:2:1-31:12
 		INJECTED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml
-		ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:2:1-32:12
+		ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:2:1-31:12
 		INJECTED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:2:11-69
@@ -87,58 +86,60 @@ ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\Androi
 		ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:5:22-76
 uses-permission#android.permission.INTERNET
 ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:6:5-67
-MERGED from [com.google.firebase:firebase-database:19.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\4c50ef13da4966c75ce899a6e1c4b708\jetified-firebase-database-19.3.0\AndroidManifest.xml:26:5-67
-MERGED from [com.google.firebase:firebase-database:19.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\4c50ef13da4966c75ce899a6e1c4b708\jetified-firebase-database-19.3.0\AndroidManifest.xml:26:5-67
-MERGED from [com.google.android.gms:play-services-measurement-api:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\bf9b52d91e7d332fbb58a27807390518\jetified-play-services-measurement-api-17.5.0\AndroidManifest.xml:22:5-67
-MERGED from [com.google.android.gms:play-services-measurement-api:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\bf9b52d91e7d332fbb58a27807390518\jetified-play-services-measurement-api-17.5.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-database:19.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\15509b0ee2b49b430de04ac666b23e82\jetified-firebase-database-19.5.0\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:19.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\15509b0ee2b49b430de04ac666b23e82\jetified-firebase-database-19.5.0\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\79a3355c47dcd2cd02bd94e09701a0f8\jetified-play-services-measurement-api-17.6.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\79a3355c47dcd2cd02bd94e09701a0f8\jetified-play-services-measurement-api-17.6.0\AndroidManifest.xml:22:5-67
 MERGED from [com.google.firebase:firebase-installations:16.3.2] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\184dfe846ffee265dfd9d84f51c2bbad\jetified-firebase-installations-16.3.2\AndroidManifest.xml:11:5-67
 MERGED from [com.google.firebase:firebase-installations:16.3.2] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\184dfe846ffee265dfd9d84f51c2bbad\jetified-firebase-installations-16.3.2\AndroidManifest.xml:11:5-67
-MERGED from [com.google.android.gms:play-services-measurement:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\c98c54285afb216bd891123cbaa87c3b\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\c98c54285afb216bd891123cbaa87c3b\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\ca375f57d742b2392f4b29c1f4520b5a\jetified-play-services-measurement-impl-17.5.0\AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\ca375f57d742b2392f4b29c1f4520b5a\jetified-play-services-measurement-impl-17.5.0\AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\3b8e0d1cfd3f251b4c62a8df100c1027\jetified-play-services-measurement-sdk-api-17.5.0\AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\3b8e0d1cfd3f251b4c62a8df100c1027\jetified-play-services-measurement-sdk-api-17.5.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\fc64ca1587327038fd3b6ec25ef15cdb\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\fc64ca1587327038fd3b6ec25ef15cdb\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\ff4e026c3f03bd17b744071217c19692\jetified-play-services-measurement-impl-17.6.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\ff4e026c3f03bd17b744071217c19692\jetified-play-services-measurement-impl-17.6.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\75bdd9badeb1d9bdc1cdec10fb85125a\jetified-play-services-measurement-sdk-api-17.6.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\75bdd9badeb1d9bdc1cdec10fb85125a\jetified-play-services-measurement-sdk-api-17.6.0\AndroidManifest.xml:23:5-67
 	android:name
 		ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:7:22-78
 application
-ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:8:5-30:19
+ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:9:5-29:19
 MERGED from [com.google.android.material:material:1.2.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\39b0a42cf105417fa1a4a4ae0c46d8b8\material-1.2.1\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.2.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\39b0a42cf105417fa1a4a4ae0c46d8b8\material-1.2.1\AndroidManifest.xml:22:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\8fe1a9545bb62a16dcfa0a727b4a497f\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\8fe1a9545bb62a16dcfa0a727b4a497f\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
-MERGED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\885d6b704bd1a34065a91963c0beccac\jetified-firebase-auth-19.3.1\AndroidManifest.xml:23:5-40:19
-MERGED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\885d6b704bd1a34065a91963c0beccac\jetified-firebase-auth-19.3.1\AndroidManifest.xml:23:5-40:19
-MERGED from [com.google.firebase:firebase-database:19.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\4c50ef13da4966c75ce899a6e1c4b708\jetified-firebase-database-19.3.0\AndroidManifest.xml:28:5-36:19
-MERGED from [com.google.firebase:firebase-database:19.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\4c50ef13da4966c75ce899a6e1c4b708\jetified-firebase-database-19.3.0\AndroidManifest.xml:28:5-36:19
-MERGED from [com.google.firebase:firebase-analytics:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\7e0f3b77cbbdc4726ab6ced8cacf0e6b\jetified-firebase-analytics-17.5.0\AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-analytics:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\7e0f3b77cbbdc4726ab6ced8cacf0e6b\jetified-firebase-analytics-17.5.0\AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\1fb9e56b605b6945062db28818eec327\constraintlayout-2.0.2\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\1fb9e56b605b6945062db28818eec327\constraintlayout-2.0.2\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\3a9604fe19215ded65fa72c98dd4be30\jetified-firebase-analytics-17.6.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\3a9604fe19215ded65fa72c98dd4be30\jetified-firebase-analytics-17.6.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-database:19.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\15509b0ee2b49b430de04ac666b23e82\jetified-firebase-database-19.5.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:19.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\15509b0ee2b49b430de04ac666b23e82\jetified-firebase-database-19.5.0\AndroidManifest.xml:28:5-36:19
 MERGED from [com.google.android.gms:play-services-location:17.1.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\db1f1d15bb5133a9471261fcb5aacc45\jetified-play-services-location-17.1.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-location:17.1.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\db1f1d15bb5133a9471261fcb5aacc45\jetified-play-services-location-17.1.0\AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\1d3a58b451da1475223005d9c0ecb835\jetified-firebase-auth-interop-19.0.0\AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\1d3a58b451da1475223005d9c0ecb835\jetified-firebase-auth-interop-19.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\f29128e38781b61bb5dabf004eeb17ba\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\f29128e38781b61bb5dabf004eeb17ba\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.android.gms:play-services-base:17.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\ba541f09ecba7e7a687839a1ca94cf76\jetified-play-services-base-17.3.0\AndroidManifest.xml:22:5-27:19
 MERGED from [com.google.android.gms:play-services-base:17.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\ba541f09ecba7e7a687839a1ca94cf76\jetified-play-services-base-17.3.0\AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-measurement-api:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\bf9b52d91e7d332fbb58a27807390518\jetified-play-services-measurement-api-17.5.0\AndroidManifest.xml:26:5-34:19
-MERGED from [com.google.android.gms:play-services-measurement-api:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\bf9b52d91e7d332fbb58a27807390518\jetified-play-services-measurement-api-17.5.0\AndroidManifest.xml:26:5-34:19
-MERGED from [com.google.firebase:firebase-installations:16.3.2] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\184dfe846ffee265dfd9d84f51c2bbad\jetified-firebase-installations-16.3.2\AndroidManifest.xml:13:5-21:19
-MERGED from [com.google.firebase:firebase-installations:16.3.2] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\184dfe846ffee265dfd9d84f51c2bbad\jetified-firebase-installations-16.3.2\AndroidManifest.xml:13:5-21:19
-MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\f1699853aa7320f36e92465950d9b870\jetified-firebase-common-19.3.0\AndroidManifest.xml:25:5-37:19
-MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\f1699853aa7320f36e92465950d9b870\jetified-firebase-common-19.3.0\AndroidManifest.xml:25:5-37:19
-MERGED from [com.google.android.gms:play-services-measurement:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\c98c54285afb216bd891123cbaa87c3b\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:28:5-44:19
-MERGED from [com.google.android.gms:play-services-measurement:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\c98c54285afb216bd891123cbaa87c3b\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:28:5-44:19
-MERGED from [com.google.android.gms:play-services-measurement-sdk:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\6cfd882993a35762c4287493a639234b\jetified-play-services-measurement-sdk-17.5.0\AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-measurement-sdk:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\6cfd882993a35762c4287493a639234b\jetified-play-services-measurement-sdk-17.5.0\AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\0dab8f2901f7f17503180e03d67fa452\jetified-play-services-tasks-17.1.0\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\0dab8f2901f7f17503180e03d67fa452\jetified-play-services-tasks-17.1.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\049e3436ec3526c06cbb5fe8e4b798d8\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\049e3436ec3526c06cbb5fe8e4b798d8\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\ca375f57d742b2392f4b29c1f4520b5a\jetified-play-services-measurement-impl-17.5.0\AndroidManifest.xml:28:5-29:19
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\ca375f57d742b2392f4b29c1f4520b5a\jetified-play-services-measurement-impl-17.5.0\AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\79a3355c47dcd2cd02bd94e09701a0f8\jetified-play-services-measurement-api-17.6.0\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\79a3355c47dcd2cd02bd94e09701a0f8\jetified-play-services-measurement-api-17.6.0\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-installations:16.3.2] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\184dfe846ffee265dfd9d84f51c2bbad\jetified-firebase-installations-16.3.2\AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-installations:16.3.2] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\184dfe846ffee265dfd9d84f51c2bbad\jetified-firebase-installations-16.3.2\AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-common:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\b0490454e848f18b90eb9fd352d0729e\jetified-firebase-common-19.3.1\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\b0490454e848f18b90eb9fd352d0729e\jetified-firebase-common-19.3.1\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\0dab8f2901f7f17503180e03d67fa452\jetified-play-services-tasks-17.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\0dab8f2901f7f17503180e03d67fa452\jetified-play-services-tasks-17.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\fc64ca1587327038fd3b6ec25ef15cdb\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\fc64ca1587327038fd3b6ec25ef15cdb\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\3cfd1bdf7bb6a7c20ae6b3493defefd7\jetified-play-services-measurement-sdk-17.6.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\3cfd1bdf7bb6a7c20ae6b3493defefd7\jetified-play-services-measurement-sdk-17.6.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\ff4e026c3f03bd17b744071217c19692\jetified-play-services-measurement-impl-17.6.0\AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\ff4e026c3f03bd17b744071217c19692\jetified-play-services-measurement-impl-17.6.0\AndroidManifest.xml:28:5-29:19
 MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\f89d7ad570105577ea0d21e1e9d617fe\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\f89d7ad570105577ea0d21e1e9d617fe\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-measurement-base:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\0c4929a1b73c07110139c7e7c268f4a7\jetified-play-services-measurement-base-17.5.0\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-measurement-base:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\0c4929a1b73c07110139c7e7c268f4a7\jetified-play-services-measurement-base-17.5.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\0330f69d052bd198594a02465fbff1d0\jetified-play-services-measurement-base-17.6.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\0330f69d052bd198594a02465fbff1d0\jetified-play-services-measurement-base-17.6.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\8ee6449a56375b7f471ac2c9f8a9363e\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\8ee6449a56375b7f471ac2c9f8a9363e\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\9fe7b05b31af97e9fdbe53ce3e7b2635\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
@@ -152,63 +153,61 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\pu
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\33718701d713ca3e83325f7dda0e045d\core-1.3.1\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:14:9-35
 	android:label
-		ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:11:9-41
+		ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:12:9-41
 	android:roundIcon
-		ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:12:9-54
+		ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:13:9-54
 	android:icon
-		ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:10:9-43
+		ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:11:9-43
 	android:allowBackup
-		ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:9:9-35
+		ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:10:9-35
 	android:theme
-		ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:14:9-40
-service#com.example.tris.TrackingService
-ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:15:9-18:47
-	android:enabled
-		ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:17:13-35
-	android:exported
-		ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:18:13-36
+		ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:15:9-40
+meta-data#com.google.android.gms.version
+ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:17:9-18:69
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\f8e1c9231e4c2edbae11e61f1b801af1\jetified-play-services-basement-17.3.0\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\f8e1c9231e4c2edbae11e61f1b801af1\jetified-play-services-basement-17.3.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:18:13-66
 	android:name
-		ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:16:13-44
+		ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:17:20-65
 activity#com.example.tris.MainActivity
-ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:20:9-29:20
+ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:19:9-28:20
 	android:label
-		ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:22:13-45
+		ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:21:13-45
 	android:theme
-		ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:23:13-56
+		ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:22:13-56
 	android:name
-		ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:21:13-41
+		ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:20:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:24:13-28:29
+ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:23:13-27:29
 action#android.intent.action.MAIN
-ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:25:17-69
+ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:24:17-69
 	android:name
-		ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:25:25-66
+		ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:24:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:27:17-77
+ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:26:17-77
 	android:name
-		ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:27:27-74
+		ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml:26:27-74
 uses-sdk
 INJECTED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml
 INJECTED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml
-MERGED from [androidx.navigation:navigation-ui:2.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\2069ecdbb2879ea2eb7c34a2fc468e00\navigation-ui-2.3.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-ui:2.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\2069ecdbb2879ea2eb7c34a2fc468e00\navigation-ui-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\a212ca7986dd989576ba738d0a4c4e30\navigation-ui-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\a212ca7986dd989576ba738d0a4c4e30\navigation-ui-2.3.1\AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.android.material:material:1.2.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\39b0a42cf105417fa1a4a4ae0c46d8b8\material-1.2.1\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.2.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\39b0a42cf105417fa1a4a4ae0c46d8b8\material-1.2.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\8fe1a9545bb62a16dcfa0a727b4a497f\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\8fe1a9545bb62a16dcfa0a727b4a497f\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\1fb9e56b605b6945062db28818eec327\constraintlayout-2.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\1fb9e56b605b6945062db28818eec327\constraintlayout-2.0.2\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\85617a0bd0c144064dce7eaf3664b2d0\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\85617a0bd0c144064dce7eaf3664b2d0\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-fragment:2.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\8e2d5802c593eda1fb50ed4db93361c4\navigation-fragment-2.3.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-fragment:2.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\8e2d5802c593eda1fb50ed4db93361c4\navigation-fragment-2.3.0\AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\885d6b704bd1a34065a91963c0beccac\jetified-firebase-auth-19.3.1\AndroidManifest.xml:21:5-44
-MERGED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\885d6b704bd1a34065a91963c0beccac\jetified-firebase-auth-19.3.1\AndroidManifest.xml:21:5-44
-MERGED from [com.google.firebase:firebase-database:19.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\4c50ef13da4966c75ce899a6e1c4b708\jetified-firebase-database-19.3.0\AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-database:19.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\4c50ef13da4966c75ce899a6e1c4b708\jetified-firebase-database-19.3.0\AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-analytics:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\7e0f3b77cbbdc4726ab6ced8cacf0e6b\jetified-firebase-analytics-17.5.0\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-analytics:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\7e0f3b77cbbdc4726ab6ced8cacf0e6b\jetified-firebase-analytics-17.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\70579ef47a6140c230101da49381d940\navigation-fragment-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\70579ef47a6140c230101da49381d940\navigation-fragment-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-analytics:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\3a9604fe19215ded65fa72c98dd4be30\jetified-firebase-analytics-17.6.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\3a9604fe19215ded65fa72c98dd4be30\jetified-firebase-analytics-17.6.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database:19.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\15509b0ee2b49b430de04ac666b23e82\jetified-firebase-database-19.5.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:19.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\15509b0ee2b49b430de04ac666b23e82\jetified-firebase-database-19.5.0\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.android.gms:play-services-location:17.1.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\db1f1d15bb5133a9471261fcb5aacc45\jetified-play-services-location-17.1.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-location:17.1.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\db1f1d15bb5133a9471261fcb5aacc45\jetified-play-services-location-17.1.0\AndroidManifest.xml:5:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\df244ec1d2c44ae00cd79b12f5a621a8\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
@@ -225,36 +224,36 @@ MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\pulki\.gradl
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\dfa225602080814c2106175b3407a619\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\b1254f835d2e50004f14731e3271899d\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\b1254f835d2e50004f14731e3271899d\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\1d3a58b451da1475223005d9c0ecb835\jetified-firebase-auth-interop-19.0.0\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\1d3a58b451da1475223005d9c0ecb835\jetified-firebase-auth-interop-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\f29128e38781b61bb5dabf004eeb17ba\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\f29128e38781b61bb5dabf004eeb17ba\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-database-collection:17.0.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\3dc365cf5e1b4c40b3a1715e44201c45\jetified-firebase-database-collection-17.0.1\AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.firebase:firebase-database-collection:17.0.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\3dc365cf5e1b4c40b3a1715e44201c45\jetified-firebase-database-collection-17.0.1\AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.android.gms:play-services-base:17.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\ba541f09ecba7e7a687839a1ca94cf76\jetified-play-services-base-17.3.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-base:17.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\ba541f09ecba7e7a687839a1ca94cf76\jetified-play-services-base-17.3.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-api:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\bf9b52d91e7d332fbb58a27807390518\jetified-play-services-measurement-api-17.5.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-api:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\bf9b52d91e7d332fbb58a27807390518\jetified-play-services-measurement-api-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\049e3436ec3526c06cbb5fe8e4b798d8\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\049e3436ec3526c06cbb5fe8e4b798d8\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\79a3355c47dcd2cd02bd94e09701a0f8\jetified-play-services-measurement-api-17.6.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\79a3355c47dcd2cd02bd94e09701a0f8\jetified-play-services-measurement-api-17.6.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-installations:16.3.2] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\184dfe846ffee265dfd9d84f51c2bbad\jetified-firebase-installations-16.3.2\AndroidManifest.xml:6:5-8:41
 MERGED from [com.google.firebase:firebase-installations:16.3.2] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\184dfe846ffee265dfd9d84f51c2bbad\jetified-firebase-installations-16.3.2\AndroidManifest.xml:6:5-8:41
-MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\f1699853aa7320f36e92465950d9b870\jetified-firebase-common-19.3.0\AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\f1699853aa7320f36e92465950d9b870\jetified-firebase-common-19.3.0\AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.gms:play-services-measurement:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\c98c54285afb216bd891123cbaa87c3b\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\c98c54285afb216bd891123cbaa87c3b\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\6cfd882993a35762c4287493a639234b\jetified-play-services-measurement-sdk-17.5.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\6cfd882993a35762c4287493a639234b\jetified-play-services-measurement-sdk-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\b0490454e848f18b90eb9fd352d0729e\jetified-firebase-common-19.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\b0490454e848f18b90eb9fd352d0729e\jetified-firebase-common-19.3.1\AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\cc3a29ec87dd6cfd13c1f8e9129d96bf\jetified-firebase-installations-interop-16.0.0\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\cc3a29ec87dd6cfd13c1f8e9129d96bf\jetified-firebase-installations-interop-16.0.0\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\0dab8f2901f7f17503180e03d67fa452\jetified-play-services-tasks-17.1.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\0dab8f2901f7f17503180e03d67fa452\jetified-play-services-tasks-17.1.0\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\049e3436ec3526c06cbb5fe8e4b798d8\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\049e3436ec3526c06cbb5fe8e4b798d8\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\ca375f57d742b2392f4b29c1f4520b5a\jetified-play-services-measurement-impl-17.5.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\ca375f57d742b2392f4b29c1f4520b5a\jetified-play-services-measurement-impl-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\fc64ca1587327038fd3b6ec25ef15cdb\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\fc64ca1587327038fd3b6ec25ef15cdb\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\3cfd1bdf7bb6a7c20ae6b3493defefd7\jetified-play-services-measurement-sdk-17.6.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\3cfd1bdf7bb6a7c20ae6b3493defefd7\jetified-play-services-measurement-sdk-17.6.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\ff4e026c3f03bd17b744071217c19692\jetified-play-services-measurement-impl-17.6.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\ff4e026c3f03bd17b744071217c19692\jetified-play-services-measurement-impl-17.6.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\f89d7ad570105577ea0d21e1e9d617fe\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\f89d7ad570105577ea0d21e1e9d617fe\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\3b8e0d1cfd3f251b4c62a8df100c1027\jetified-play-services-measurement-sdk-api-17.5.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\3b8e0d1cfd3f251b4c62a8df100c1027\jetified-play-services-measurement-sdk-api-17.5.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-base:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\0c4929a1b73c07110139c7e7c268f4a7\jetified-play-services-measurement-base-17.5.0\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-measurement-base:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\0c4929a1b73c07110139c7e7c268f4a7\jetified-play-services-measurement-base-17.5.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\75bdd9badeb1d9bdc1cdec10fb85125a\jetified-play-services-measurement-sdk-api-17.6.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\75bdd9badeb1d9bdc1cdec10fb85125a\jetified-play-services-measurement-sdk-api-17.6.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\0330f69d052bd198594a02465fbff1d0\jetified-play-services-measurement-base-17.6.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\0330f69d052bd198594a02465fbff1d0\jetified-play-services-measurement-base-17.6.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\8ee6449a56375b7f471ac2c9f8a9363e\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\8ee6449a56375b7f471ac2c9f8a9363e\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\9fe7b05b31af97e9fdbe53ce3e7b2635\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
@@ -263,8 +262,8 @@ MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\pulk
 MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\f8e1c9231e4c2edbae11e61f1b801af1\jetified-play-services-basement-17.3.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\6ad125d7c232d1c27a50120c35aa4bd5\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\6ad125d7c232d1c27a50120c35aa4bd5\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\eb91bfcb2f18ee8866b1fbf94be9e8a7\drawerlayout-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\eb91bfcb2f18ee8866b1fbf94be9e8a7\drawerlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\762d1142c9efdf7688a53cb3bb1d7e34\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\762d1142c9efdf7688a53cb3bb1d7e34\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.transition:transition:1.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\07989e0ad6eca159cba348439230f3ff\transition-1.3.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.transition:transition:1.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\07989e0ad6eca159cba348439230f3ff\transition-1.3.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\01272a8d33c6943dd1d04bc0fe9a5705\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
@@ -277,16 +276,14 @@ MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\pulki\.gr
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\7e2b349d88219878768d96e6fde0502a\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\09dcbb207ea52056cbf59bbf8caf7ddf\loader-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\09dcbb207ea52056cbf59bbf8caf7ddf\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-runtime:2.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\e37a8ae7ca259e60880628859a95d424\navigation-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-runtime:2.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\e37a8ae7ca259e60880628859a95d424\navigation-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\c055e8400f50bf29eb1f60fe2f22626e\navigation-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\c055e8400f50bf29eb1f60fe2f22626e\navigation-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.activity:activity:1.1.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\c20f01078be76f82f16e544393ead06e\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.activity:activity:1.1.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\c20f01078be76f82f16e544393ead06e\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-common:2.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\3dfdf91e6cf72158062bf72c962cbd88\navigation-common-2.3.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-common:2.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\3dfdf91e6cf72158062bf72c962cbd88\navigation-common-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\8105a38212ce1787f52f4a103b5074cd\navigation-common-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\8105a38212ce1787f52f4a103b5074cd\navigation-common-2.3.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core:1.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\33718701d713ca3e83325f7dda0e045d\core-1.3.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core:1.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\33718701d713ca3e83325f7dda0e045d\core-1.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\6f34602dfbf6f8fb5b6931b9e45859b5\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\6f34602dfbf6f8fb5b6931b9e45859b5\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\aeae1fb018a8fef22dcfe65a751b499a\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\aeae1fb018a8fef22dcfe65a751b499a\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\e3a897727134335945e5b7466b359ad3\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
@@ -309,6 +306,8 @@ MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\pulki\.gradle\cache
 MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\d4465896c4662edfdecbd8826f5767b4\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\d582b231c866c9ed589e03b50b568fea\documentfile-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\d582b231c866c9ed589e03b50b568fea\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\6f34602dfbf6f8fb5b6931b9e45859b5\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\6f34602dfbf6f8fb5b6931b9e45859b5\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\410f8a5d572e99627a02105a188dcc85\print-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\410f8a5d572e99627a02105a188dcc85\print-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\d16c055fb911a7e235b9e6af8aa6e581\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
@@ -323,66 +322,42 @@ INJECTED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\And
 		INJECTED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml
 		ADDED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml
 		INJECTED from D:\projects\Smart-Tracker biomed\tris-main-master\app\src\main\AndroidManifest.xml
-activity#com.google.firebase.auth.internal.FederatedSignInActivity
-ADDED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\885d6b704bd1a34065a91963c0beccac\jetified-firebase-auth-19.3.1\AndroidManifest.xml:24:9-31:50
-	android:excludeFromRecents
-		ADDED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\885d6b704bd1a34065a91963c0beccac\jetified-firebase-auth-19.3.1\AndroidManifest.xml:26:13-46
-	android:launchMode
-		ADDED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\885d6b704bd1a34065a91963c0beccac\jetified-firebase-auth-19.3.1\AndroidManifest.xml:28:13-44
-	android:exported
-		ADDED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\885d6b704bd1a34065a91963c0beccac\jetified-firebase-auth-19.3.1\AndroidManifest.xml:27:13-36
-	android:permission
-		ADDED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\885d6b704bd1a34065a91963c0beccac\jetified-firebase-auth-19.3.1\AndroidManifest.xml:29:13-102
-	android:theme
-		ADDED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\885d6b704bd1a34065a91963c0beccac\jetified-firebase-auth-19.3.1\AndroidManifest.xml:30:13-72
-	tools:replace
-		ADDED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\885d6b704bd1a34065a91963c0beccac\jetified-firebase-auth-19.3.1\AndroidManifest.xml:31:13-47
-	android:name
-		ADDED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\885d6b704bd1a34065a91963c0beccac\jetified-firebase-auth-19.3.1\AndroidManifest.xml:25:13-85
-service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\885d6b704bd1a34065a91963c0beccac\jetified-firebase-auth-19.3.1\AndroidManifest.xml:33:9-39:19
-MERGED from [com.google.firebase:firebase-database:19.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\4c50ef13da4966c75ce899a6e1c4b708\jetified-firebase-database-19.3.0\AndroidManifest.xml:29:9-35:19
-MERGED from [com.google.firebase:firebase-database:19.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\4c50ef13da4966c75ce899a6e1c4b708\jetified-firebase-database-19.3.0\AndroidManifest.xml:29:9-35:19
-MERGED from [com.google.android.gms:play-services-measurement-api:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\bf9b52d91e7d332fbb58a27807390518\jetified-play-services-measurement-api-17.5.0\AndroidManifest.xml:27:9-33:19
-MERGED from [com.google.android.gms:play-services-measurement-api:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\bf9b52d91e7d332fbb58a27807390518\jetified-play-services-measurement-api-17.5.0\AndroidManifest.xml:27:9-33:19
-MERGED from [com.google.firebase:firebase-installations:16.3.2] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\184dfe846ffee265dfd9d84f51c2bbad\jetified-firebase-installations-16.3.2\AndroidManifest.xml:14:9-20:19
-MERGED from [com.google.firebase:firebase-installations:16.3.2] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\184dfe846ffee265dfd9d84f51c2bbad\jetified-firebase-installations-16.3.2\AndroidManifest.xml:14:9-20:19
-MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\f1699853aa7320f36e92465950d9b870\jetified-firebase-common-19.3.0\AndroidManifest.xml:32:9-36:35
-MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\f1699853aa7320f36e92465950d9b870\jetified-firebase-common-19.3.0\AndroidManifest.xml:32:9-36:35
-	android:exported
-		ADDED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\885d6b704bd1a34065a91963c0beccac\jetified-firebase-auth-19.3.1\AndroidManifest.xml:35:13-37
-	tools:targetApi
-		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\f1699853aa7320f36e92465950d9b870\jetified-firebase-common-19.3.0\AndroidManifest.xml:36:13-32
-	android:directBootAware
-		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\f1699853aa7320f36e92465950d9b870\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
-	android:name
-		ADDED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\885d6b704bd1a34065a91963c0beccac\jetified-firebase-auth-19.3.1\AndroidManifest.xml:34:13-84
-meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
-ADDED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\885d6b704bd1a34065a91963c0beccac\jetified-firebase-auth-19.3.1\AndroidManifest.xml:36:13-38:85
-	android:value
-		ADDED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\885d6b704bd1a34065a91963c0beccac\jetified-firebase-auth-19.3.1\AndroidManifest.xml:38:17-82
-	android:name
-		ADDED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\885d6b704bd1a34065a91963c0beccac\jetified-firebase-auth-19.3.1\AndroidManifest.xml:37:17-109
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.firebase:firebase-database:19.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\4c50ef13da4966c75ce899a6e1c4b708\jetified-firebase-database-19.3.0\AndroidManifest.xml:25:5-79
-MERGED from [com.google.android.gms:play-services-measurement-api:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\bf9b52d91e7d332fbb58a27807390518\jetified-play-services-measurement-api-17.5.0\AndroidManifest.xml:23:5-79
-MERGED from [com.google.android.gms:play-services-measurement-api:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\bf9b52d91e7d332fbb58a27807390518\jetified-play-services-measurement-api-17.5.0\AndroidManifest.xml:23:5-79
+ADDED from [com.google.firebase:firebase-database:19.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\15509b0ee2b49b430de04ac666b23e82\jetified-firebase-database-19.5.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\79a3355c47dcd2cd02bd94e09701a0f8\jetified-play-services-measurement-api-17.6.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\79a3355c47dcd2cd02bd94e09701a0f8\jetified-play-services-measurement-api-17.6.0\AndroidManifest.xml:23:5-79
 MERGED from [com.google.firebase:firebase-installations:16.3.2] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\184dfe846ffee265dfd9d84f51c2bbad\jetified-firebase-installations-16.3.2\AndroidManifest.xml:10:5-79
 MERGED from [com.google.firebase:firebase-installations:16.3.2] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\184dfe846ffee265dfd9d84f51c2bbad\jetified-firebase-installations-16.3.2\AndroidManifest.xml:10:5-79
-MERGED from [com.google.android.gms:play-services-measurement:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\c98c54285afb216bd891123cbaa87c3b\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\c98c54285afb216bd891123cbaa87c3b\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\ca375f57d742b2392f4b29c1f4520b5a\jetified-play-services-measurement-impl-17.5.0\AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\ca375f57d742b2392f4b29c1f4520b5a\jetified-play-services-measurement-impl-17.5.0\AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\3b8e0d1cfd3f251b4c62a8df100c1027\jetified-play-services-measurement-sdk-api-17.5.0\AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\3b8e0d1cfd3f251b4c62a8df100c1027\jetified-play-services-measurement-sdk-api-17.5.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\fc64ca1587327038fd3b6ec25ef15cdb\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\fc64ca1587327038fd3b6ec25ef15cdb\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\ff4e026c3f03bd17b744071217c19692\jetified-play-services-measurement-impl-17.6.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\ff4e026c3f03bd17b744071217c19692\jetified-play-services-measurement-impl-17.6.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\75bdd9badeb1d9bdc1cdec10fb85125a\jetified-play-services-measurement-sdk-api-17.6.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\75bdd9badeb1d9bdc1cdec10fb85125a\jetified-play-services-measurement-sdk-api-17.6.0\AndroidManifest.xml:24:5-79
 	android:name
-		ADDED from [com.google.firebase:firebase-database:19.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\4c50ef13da4966c75ce899a6e1c4b708\jetified-firebase-database-19.3.0\AndroidManifest.xml:25:22-76
+		ADDED from [com.google.firebase:firebase-database:19.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\15509b0ee2b49b430de04ac666b23e82\jetified-firebase-database-19.5.0\AndroidManifest.xml:25:22-76
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-database:19.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\15509b0ee2b49b430de04ac666b23e82\jetified-firebase-database-19.5.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\79a3355c47dcd2cd02bd94e09701a0f8\jetified-play-services-measurement-api-17.6.0\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\79a3355c47dcd2cd02bd94e09701a0f8\jetified-play-services-measurement-api-17.6.0\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-installations:16.3.2] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\184dfe846ffee265dfd9d84f51c2bbad\jetified-firebase-installations-16.3.2\AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-installations:16.3.2] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\184dfe846ffee265dfd9d84f51c2bbad\jetified-firebase-installations-16.3.2\AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-common:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\b0490454e848f18b90eb9fd352d0729e\jetified-firebase-common-19.3.1\AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\b0490454e848f18b90eb9fd352d0729e\jetified-firebase-common-19.3.1\AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-database:19.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\15509b0ee2b49b430de04ac666b23e82\jetified-firebase-database-19.5.0\AndroidManifest.xml:31:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\b0490454e848f18b90eb9fd352d0729e\jetified-firebase-common-19.3.1\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\b0490454e848f18b90eb9fd352d0729e\jetified-firebase-common-19.3.1\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\15509b0ee2b49b430de04ac666b23e82\jetified-firebase-database-19.5.0\AndroidManifest.xml:30:13-84
 meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
-ADDED from [com.google.firebase:firebase-database:19.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\4c50ef13da4966c75ce899a6e1c4b708\jetified-firebase-database-19.3.0\AndroidManifest.xml:32:13-34:85
+ADDED from [com.google.firebase:firebase-database:19.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\15509b0ee2b49b430de04ac666b23e82\jetified-firebase-database-19.5.0\AndroidManifest.xml:32:13-34:85
 	android:value
-		ADDED from [com.google.firebase:firebase-database:19.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\4c50ef13da4966c75ce899a6e1c4b708\jetified-firebase-database-19.3.0\AndroidManifest.xml:34:17-82
+		ADDED from [com.google.firebase:firebase-database:19.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\15509b0ee2b49b430de04ac666b23e82\jetified-firebase-database-19.5.0\AndroidManifest.xml:34:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-database:19.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\4c50ef13da4966c75ce899a6e1c4b708\jetified-firebase-database-19.3.0\AndroidManifest.xml:33:17-109
+		ADDED from [com.google.firebase:firebase-database:19.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\15509b0ee2b49b430de04ac666b23e82\jetified-firebase-database-19.5.0\AndroidManifest.xml:33:17-109
 activity#com.google.android.gms.common.api.GoogleApiActivity
 ADDED from [com.google.android.gms:play-services-base:17.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\ba541f09ecba7e7a687839a1ca94cf76\jetified-play-services-base-17.3.0\AndroidManifest.xml:23:9-26:75
 	android:exported
@@ -392,21 +367,21 @@ ADDED from [com.google.android.gms:play-services-base:17.3.0] C:\Users\pulki\.gr
 	android:name
 		ADDED from [com.google.android.gms:play-services-base:17.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\ba541f09ecba7e7a687839a1ca94cf76\jetified-play-services-base-17.3.0\AndroidManifest.xml:24:13-79
 uses-permission#android.permission.WAKE_LOCK
-ADDED from [com.google.android.gms:play-services-measurement-api:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\bf9b52d91e7d332fbb58a27807390518\jetified-play-services-measurement-api-17.5.0\AndroidManifest.xml:24:5-68
-MERGED from [com.google.android.gms:play-services-measurement:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\c98c54285afb216bd891123cbaa87c3b\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\c98c54285afb216bd891123cbaa87c3b\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\ca375f57d742b2392f4b29c1f4520b5a\jetified-play-services-measurement-impl-17.5.0\AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\ca375f57d742b2392f4b29c1f4520b5a\jetified-play-services-measurement-impl-17.5.0\AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\3b8e0d1cfd3f251b4c62a8df100c1027\jetified-play-services-measurement-sdk-api-17.5.0\AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\3b8e0d1cfd3f251b4c62a8df100c1027\jetified-play-services-measurement-sdk-api-17.5.0\AndroidManifest.xml:25:5-68
+ADDED from [com.google.android.gms:play-services-measurement-api:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\79a3355c47dcd2cd02bd94e09701a0f8\jetified-play-services-measurement-api-17.6.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\fc64ca1587327038fd3b6ec25ef15cdb\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\fc64ca1587327038fd3b6ec25ef15cdb\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\ff4e026c3f03bd17b744071217c19692\jetified-play-services-measurement-impl-17.6.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\ff4e026c3f03bd17b744071217c19692\jetified-play-services-measurement-impl-17.6.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\75bdd9badeb1d9bdc1cdec10fb85125a\jetified-play-services-measurement-sdk-api-17.6.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\75bdd9badeb1d9bdc1cdec10fb85125a\jetified-play-services-measurement-sdk-api-17.6.0\AndroidManifest.xml:25:5-68
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement-api:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\bf9b52d91e7d332fbb58a27807390518\jetified-play-services-measurement-api-17.5.0\AndroidManifest.xml:24:22-65
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\79a3355c47dcd2cd02bd94e09701a0f8\jetified-play-services-measurement-api-17.6.0\AndroidManifest.xml:24:22-65
 meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
-ADDED from [com.google.android.gms:play-services-measurement-api:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\bf9b52d91e7d332fbb58a27807390518\jetified-play-services-measurement-api-17.5.0\AndroidManifest.xml:30:13-32:85
+ADDED from [com.google.android.gms:play-services-measurement-api:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\79a3355c47dcd2cd02bd94e09701a0f8\jetified-play-services-measurement-api-17.6.0\AndroidManifest.xml:30:13-32:85
 	android:value
-		ADDED from [com.google.android.gms:play-services-measurement-api:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\bf9b52d91e7d332fbb58a27807390518\jetified-play-services-measurement-api-17.5.0\AndroidManifest.xml:32:17-82
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\79a3355c47dcd2cd02bd94e09701a0f8\jetified-play-services-measurement-api-17.6.0\AndroidManifest.xml:32:17-82
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement-api:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\bf9b52d91e7d332fbb58a27807390518\jetified-play-services-measurement-api-17.5.0\AndroidManifest.xml:31:17-139
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\79a3355c47dcd2cd02bd94e09701a0f8\jetified-play-services-measurement-api-17.6.0\AndroidManifest.xml:31:17-139
 meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
 ADDED from [com.google.firebase:firebase-installations:16.3.2] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\184dfe846ffee265dfd9d84f51c2bbad\jetified-firebase-installations-16.3.2\AndroidManifest.xml:17:13-19:85
 	android:value
@@ -414,50 +389,46 @@ ADDED from [com.google.firebase:firebase-installations:16.3.2] C:\Users\pulki\.g
 	android:name
 		ADDED from [com.google.firebase:firebase-installations:16.3.2] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\184dfe846ffee265dfd9d84f51c2bbad\jetified-firebase-installations-16.3.2\AndroidManifest.xml:18:17-127
 provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\f1699853aa7320f36e92465950d9b870\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+ADDED from [com.google.firebase:firebase-common:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\b0490454e848f18b90eb9fd352d0729e\jetified-firebase-common-19.3.1\AndroidManifest.xml:26:9-31:39
 	android:authorities
-		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\f1699853aa7320f36e92465950d9b870\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
+		ADDED from [com.google.firebase:firebase-common:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\b0490454e848f18b90eb9fd352d0729e\jetified-firebase-common-19.3.1\AndroidManifest.xml:28:13-72
 	android:exported
-		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\f1699853aa7320f36e92465950d9b870\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
+		ADDED from [com.google.firebase:firebase-common:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\b0490454e848f18b90eb9fd352d0729e\jetified-firebase-common-19.3.1\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\b0490454e848f18b90eb9fd352d0729e\jetified-firebase-common-19.3.1\AndroidManifest.xml:29:13-43
 	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\f1699853aa7320f36e92465950d9b870\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
+		ADDED from [com.google.firebase:firebase-common:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\b0490454e848f18b90eb9fd352d0729e\jetified-firebase-common-19.3.1\AndroidManifest.xml:31:13-36
 	android:name
-		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\f1699853aa7320f36e92465950d9b870\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
+		ADDED from [com.google.firebase:firebase-common:19.3.1] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\b0490454e848f18b90eb9fd352d0729e\jetified-firebase-common-19.3.1\AndroidManifest.xml:27:13-77
 uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
-ADDED from [com.google.android.gms:play-services-measurement:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\c98c54285afb216bd891123cbaa87c3b\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:26:5-110
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\ca375f57d742b2392f4b29c1f4520b5a\jetified-play-services-measurement-impl-17.5.0\AndroidManifest.xml:26:5-110
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\ca375f57d742b2392f4b29c1f4520b5a\jetified-play-services-measurement-impl-17.5.0\AndroidManifest.xml:26:5-110
+ADDED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\fc64ca1587327038fd3b6ec25ef15cdb\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\ff4e026c3f03bd17b744071217c19692\jetified-play-services-measurement-impl-17.6.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\ff4e026c3f03bd17b744071217c19692\jetified-play-services-measurement-impl-17.6.0\AndroidManifest.xml:26:5-110
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\c98c54285afb216bd891123cbaa87c3b\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:26:22-107
+		ADDED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\fc64ca1587327038fd3b6ec25ef15cdb\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:26:22-107
 receiver#com.google.android.gms.measurement.AppMeasurementReceiver
-ADDED from [com.google.android.gms:play-services-measurement:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\c98c54285afb216bd891123cbaa87c3b\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:29:9-33:20
+ADDED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\fc64ca1587327038fd3b6ec25ef15cdb\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:29:9-33:20
 	android:enabled
-		ADDED from [com.google.android.gms:play-services-measurement:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\c98c54285afb216bd891123cbaa87c3b\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:31:13-35
+		ADDED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\fc64ca1587327038fd3b6ec25ef15cdb\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:31:13-35
 	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\c98c54285afb216bd891123cbaa87c3b\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:32:13-37
+		ADDED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\fc64ca1587327038fd3b6ec25ef15cdb\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:32:13-37
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\c98c54285afb216bd891123cbaa87c3b\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:30:13-85
+		ADDED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\fc64ca1587327038fd3b6ec25ef15cdb\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:30:13-85
 service#com.google.android.gms.measurement.AppMeasurementService
-ADDED from [com.google.android.gms:play-services-measurement:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\c98c54285afb216bd891123cbaa87c3b\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:35:9-38:40
+ADDED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\fc64ca1587327038fd3b6ec25ef15cdb\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:35:9-38:40
 	android:enabled
-		ADDED from [com.google.android.gms:play-services-measurement:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\c98c54285afb216bd891123cbaa87c3b\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:37:13-35
+		ADDED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\fc64ca1587327038fd3b6ec25ef15cdb\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:37:13-35
 	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\c98c54285afb216bd891123cbaa87c3b\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:38:13-37
+		ADDED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\fc64ca1587327038fd3b6ec25ef15cdb\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:38:13-37
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\c98c54285afb216bd891123cbaa87c3b\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:36:13-84
+		ADDED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\fc64ca1587327038fd3b6ec25ef15cdb\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:36:13-84
 service#com.google.android.gms.measurement.AppMeasurementJobService
-ADDED from [com.google.android.gms:play-services-measurement:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\c98c54285afb216bd891123cbaa87c3b\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:39:9-43:72
+ADDED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\fc64ca1587327038fd3b6ec25ef15cdb\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:39:9-43:72
 	android:enabled
-		ADDED from [com.google.android.gms:play-services-measurement:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\c98c54285afb216bd891123cbaa87c3b\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:41:13-35
+		ADDED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\fc64ca1587327038fd3b6ec25ef15cdb\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:41:13-35
 	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\c98c54285afb216bd891123cbaa87c3b\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:42:13-37
+		ADDED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\fc64ca1587327038fd3b6ec25ef15cdb\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:42:13-37
 	android:permission
-		ADDED from [com.google.android.gms:play-services-measurement:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\c98c54285afb216bd891123cbaa87c3b\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:43:13-69
+		ADDED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\fc64ca1587327038fd3b6ec25ef15cdb\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:43:13-69
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:17.5.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\c98c54285afb216bd891123cbaa87c3b\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:40:13-87
-meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\f8e1c9231e4c2edbae11e61f1b801af1\jetified-play-services-basement-17.3.0\AndroidManifest.xml:23:9-25:69
-	android:value
-		ADDED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\f8e1c9231e4c2edbae11e61f1b801af1\jetified-play-services-basement-17.3.0\AndroidManifest.xml:25:13-66
-	android:name
-		ADDED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\f8e1c9231e4c2edbae11e61f1b801af1\jetified-play-services-basement-17.3.0\AndroidManifest.xml:24:13-58
+		ADDED from [com.google.android.gms:play-services-measurement:17.6.0] C:\Users\pulki\.gradle\caches\transforms-2\files-2.1\fc64ca1587327038fd3b6ec25ef15cdb\jetified-play-services-measurement-17.6.0\AndroidManifest.xml:40:13-87
