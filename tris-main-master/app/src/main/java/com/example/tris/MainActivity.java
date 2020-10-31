@@ -10,6 +10,7 @@ import android.os.Bundle;
 import android.provider.Settings;
 import android.util.Log;
 import android.view.View;
+import android.widget.ImageButton;
 import android.widget.TextView;
 
 import androidx.annotation.NonNull;
@@ -27,6 +28,7 @@ import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
 
 import java.util.Locale;
+import java.util.concurrent.ThreadLocalRandom;
 
 public class MainActivity extends Activity {
     private static final String TAG = MainActivity.class.getSimpleName();
@@ -43,6 +45,8 @@ public class MainActivity extends Activity {
     private TextView mLongitudeText;
     private TextView mTemperatureText;
     private TextView mTamperStatusText;
+    private TextView mHeartBeatText;
+    private ImageButton mButton;
 
     FirebaseDatabase database = FirebaseDatabase.getInstance();
 
@@ -58,8 +62,22 @@ public class MainActivity extends Activity {
         mLongitudeText = (TextView) findViewById((R.id.longitude_text));
         mTemperatureText = (TextView) findViewById((R.id.temperature_data));
         mTamperStatusText = (TextView) findViewById(R.id.tamper_status_data);
+        mHeartBeatText = (TextView) findViewById(R.id.heart_beat_data);
+        mButton = findViewById(R.id.imageButton);
 
         mFusedLocationClient = LocationServices.getFusedLocationProviderClient(this);
+
+        final DatabaseReference fHeartBeat = database.getReference("HeartBeat");
+
+        mButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                int heart_beat= ThreadLocalRandom.current().nextInt(71,74);
+                mHeartBeatText.setText("Heart Beat: "+heart_beat+" BPM");
+                fHeartBeat.setValue(heart_beat);
+
+            }
+        });
 
         final DatabaseReference fTemperature = database.getReference().child("Temp");
 
@@ -68,6 +86,7 @@ public class MainActivity extends Activity {
             public void onDataChange(@NonNull DataSnapshot snapshot) {
                 String temperatureOb= snapshot.getValue(java.lang.String.class);
                 mTemperatureText.setText("Temperature: "+temperatureOb);
+
             }
 
             @Override

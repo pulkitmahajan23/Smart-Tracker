@@ -930,6 +930,7 @@ bool abc_action_bar_embed_tabs
 bool abc_allow_stacked_button_bar
 bool abc_config_actionMenuItemAllCaps
 bool mtrl_btn_textappearance_all_caps
+color Text
 color abc_background_cache_hint_selector_material_dark
 color abc_background_cache_hint_selector_material_light
 color abc_btn_colored_borderless_text_material
@@ -1613,6 +1614,10 @@ drawable design_password_eye
 drawable design_snackbar_background
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
+drawable gradient
+drawable ic_action_name
+drawable ic_group_1
+drawable ic_group_2
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable ic_mtrl_checked_circle
@@ -1826,6 +1831,7 @@ id graph_wrap
 id group_divider
 id grouping
 id groups
+id heart_beat_data
 id hideable
 id home
 id homeAsUp
@@ -1837,6 +1843,7 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imageButton
 id info
 id invisible
 id italic

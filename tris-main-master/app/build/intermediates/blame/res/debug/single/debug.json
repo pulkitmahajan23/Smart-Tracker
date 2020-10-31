@@ -8,28 +8,16 @@
         "source": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_activity.xml.flat",
-        "source": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\src\\main\\res\\layout\\main_activity.xml"
-    },
-    {
-        "merged": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
-    },
-    {
         "merged": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tracking_enabled.png.flat",
         "source": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\src\\main\\res\\drawable-mdpi\\tracking_enabled.png"
     },
     {
+        "merged": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_name.png.flat",
+        "source": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\src\\main\\res\\drawable-mdpi\\ic_action_name.png"
+    },
+    {
         "merged": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
         "source": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_tracking_enabled.png.flat",
-        "source": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\src\\main\\res\\drawable-xhdpi\\tracking_enabled.png"
     },
     {
         "merged": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
@@ -40,28 +28,12 @@
         "source": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_action_name.png.flat",
+        "source": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_name.png"
     },
     {
         "merged": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_tracking_enabled.png.flat",
         "source": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\src\\main\\res\\drawable-xxhdpi\\tracking_enabled.png"
-    },
-    {
-        "merged": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main.xml.flat",
-        "source": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\src\\main\\res\\menu\\menu_main.xml"
-    },
-    {
-        "merged": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
         "merged": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
@@ -72,6 +44,54 @@
         "source": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
+        "merged": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_name.png.flat",
+        "source": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\src\\main\\res\\drawable-hdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_group_2.xml.flat",
+        "source": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\src\\main\\res\\drawable\\ic_group_2.xml"
+    },
+    {
+        "merged": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_activity.xml.flat",
+        "source": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\src\\main\\res\\layout\\main_activity.xml"
+    },
+    {
+        "merged": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_tracking_enabled.png.flat",
+        "source": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\src\\main\\res\\drawable-xhdpi\\tracking_enabled.png"
+    },
+    {
+        "merged": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main.xml.flat",
+        "source": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient.xml.flat",
+        "source": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\src\\main\\res\\drawable\\gradient.xml"
+    },
+    {
+        "merged": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tracking_enabled.png.flat",
         "source": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\src\\main\\res\\drawable-hdpi\\tracking_enabled.png"
     },
@@ -80,7 +100,19 @@
         "source": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
+        "merged": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_group_1.xml.flat",
+        "source": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\src\\main\\res\\drawable\\ic_group_1.xml"
+    },
+    {
         "merged": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_tracking_enabled.xml.flat",
         "source": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\src\\main\\res\\drawable-anydpi-v24\\tracking_enabled.xml"
+    },
+    {
+        "merged": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_name.png.flat",
+        "source": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_name.png.flat",
+        "source": "D:\\projects\\Smart-Tracker biomed\\tris-main-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_name.png"
     }
 ]
