@@ -9,14 +9,17 @@
 #define WIFI_PASSWORD "pulkit123"
 #define SDA_PIN 21
 #define SCL_PIN 22
+#define BTN_PIN 27
 
 FirebaseData firebaseData;
 MPU6050 mpu6050(Wire);
 
-bool tamperStatus=false;
+RTC_DATA_ATTR bool tamperStatus=false;
+esp_sleep_wakeup_cause_t wakeup_reason;
 void setup() {
   
   Serial.begin(115200);
+  pinMode(BTN_PIN,INPUT);
 
   WiFi.begin(WIFI_SSID, WIFI_PASSWORD);
   Serial.print("Connecting to Wi-Fi");
@@ -35,7 +38,12 @@ void setup() {
 
   Wire.begin();
   mpu6050.begin();
-  
+
+  wakeup_reason = esp_sleep_get_wakeup_cause();
+  if(wakeup_reason == ESP_SLEEP_WAKEUP_TIMER)
+  {
+    tamperStatus=true;
+  }
 }
 
 void loop() {
@@ -59,5 +67,10 @@ void loop() {
   else{
     Serial.print("Error in setting");
     Serial.println(firebaseData.errorReason());
+  }
+  if(!digitalRead(BTN_PIN))
+  {
+    esp_sleep_enable_timer_wakeup(0);
+    esp_deep_sleep_start();
   }
 } 
